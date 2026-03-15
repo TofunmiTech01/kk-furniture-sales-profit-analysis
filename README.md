@@ -24,7 +24,6 @@
   - [Product-Level Intelligence](#9-product-level-intelligence)
   - [Profit Margin Health](#10-profit-margin-health)
 - [Strategic Recommendations](#strategic-recommendations)
-- [Live Dashboard](#live-dashboard)
 - [Connect With Me](#connect-with-me)
 
 ---
@@ -85,9 +84,9 @@ These are not small inefficiencies. They are strategic crises hiding behind a he
 
 ## Dashboard Preview
 
-![KK Furniture Dashboard Page 1 — Sales Performance](https://github.com/TofunmiTech01/kk-furniture-sales-profit-analysis/blob/main/KK_Furniture_Dashboard1.PNG)
+![KK Furniture Dashboard Page 1 — Sales Performance](https://github.com/TofunmiTech01/kk-furniture-sales-profit-analysis/blob/main/KK-Furniture-Dashboard1.PNG)
 
-![KK Furniture Dashboard Page 2 — Profit Intelligence](https://github.com/TofunmiTech01/kk-furniture-sales-profit-analysis/blob/main/KK_Furniture_Dashboard2.PNG)
+![KK Furniture Dashboard Page 2 — Profit Intelligence](https://github.com/TofunmiTech01/kk-furniture-sales-profit-analysis/blob/main/KK-Furniture-Dashboard2.PNG)
 
 ---
 
@@ -377,12 +376,6 @@ October generates -$3,028 in profit despite $58K in sales — a pre-holiday disc
 
 ### 8. 🏆 Build on Washington and Virginia — Replicate Their Success
 Washington (15.0% margin) and Virginia (20.6% margin) are the two highest-margin major states. Understand what makes these markets work — product mix, customer type, shipping efficiency, or competitive landscape — and apply those learnings to underperforming high-revenue states like Texas and Illinois.
-
----
-
-## Live Dashboard
-
-> 🔗 Interact with the full Excel dashboard **[HERE](#)** *(insert your file or dashboard link)*
 
 ---
 
